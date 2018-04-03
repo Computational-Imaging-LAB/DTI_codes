@@ -2,6 +2,7 @@
 FSL DTI PROCESSING GUIDE
 Kodlar ve pipeline ile ilgili sorular için iletişime geçebilirsiniz:
 Özge Can Kaplan, ozgecankaplan@gmail.com, 0538 457 80 65
+
 Kodlar şu işlere yarıyor: 
 0.File-prep.sh : 
 a. HC ve PD subjectler için çalışmak istediğimiz hastaların indexlerini giriyoruz. Daha önceden NAS&#39;a
